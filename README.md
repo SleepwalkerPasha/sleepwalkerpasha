@@ -1,6 +1,8 @@
 ## Hello!
 
 Thanks for visiting my Github profile, it's great to meet you here!
+I am a student at MIET in Moscow, trying to become a decent software engineer and have fun with it.
+(Well... sometimes it's kinda hard)
 
 ### Some facts about me:
 - I'm a beginner software engineer who is trying my best at learning something new.
