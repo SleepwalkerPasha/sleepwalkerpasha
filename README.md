@@ -14,11 +14,11 @@ I am a student at MIET in Moscow, trying to become a decent software engineer an
 ### Languages and Tools
 These are the languages in which I program:
 - Java/Kotlin
-- C#
-- Front-end package(HTML, CSS, JS)
 - Python/Django
+- Front-end package(HTML, CSS, JS)
 - C++ (until I go crazy)
 - Assembler (when I go crazy)
+- C#
 
 ### My links
 [Email](paegorov.work@gmail.com)
