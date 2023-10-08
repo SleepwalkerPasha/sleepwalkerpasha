@@ -11,7 +11,7 @@ I am a student at MIET in Moscow, trying to become a decent software engineer an
 - The best way to reach me - send an email or telegram.
 - I aspire to my own programming ideals and want to create quality products for people.
 
-### - Java/Kotlin
+### Java/Kotlin
 
 ### My links
 [Email](paegorov.work@gmail.com)
